@@ -630,7 +630,7 @@ void RenderScene()
     glutPostRedisplay();                    //glutPostRedisplay may be called within a window's display
     glutSwapBuffers();                      //Performs a buffer swap on the layer in use for the current window
 }
-//creating boundary walls and their colors -> blue lines (3 types of boxes are there )
+//creating boundary walls and their colors -> blue lines (3 types of boxes are there ) different ones for each type
 void create_list_lib()
 {
     //Set Up Maze Using Lists
