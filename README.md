@@ -1,4 +1,4 @@
-Pacman Game in C++ with OpenGL
+#Pacman Game in C++ with OpenGL
 This is a simple Pacman game created using C++ and OpenGL. The game features a Pacman character that navigates through a maze to collect dots while avoiding ghosts.
 
 Requirements
